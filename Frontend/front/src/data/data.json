@@ -1,0 +1,149 @@
+{
+  "Header": {
+    "title": "Welcome   to   our  pharmacy"
+    
+  },
+  "About": {
+    "Why": [
+      "Order medicines & healthcare products online",
+      "home delivered access to a wide range of prescription,",
+      "Rare medicines only for your need ",
+      "You can either pay online or opt for COD ",
+      "Best services available for the best customers"
+    ]
+   
+  },
+  "Gallery": [
+    {
+      "title": "Ecosprin",
+      "largeImage": "img/portfolio/Ecosprin.jpg",
+      "smallImage": "img/portfolio/Ecosprin.jpg"
+    },
+    {
+      "title": "Pan 40mg Strip Of 15 Tablet",
+      "largeImage": "img/portfolio/pan.jpg",
+      "smallImage": "img/portfolio/pan.jpg"},
+    
+    {
+      "title": "Evion 400mg Strip Of 10 Capsules",
+      "largeImage": "img/portfolio/evion.jpg",
+      "smallImage":  "img/portfolio/evion.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Say Goodbye to All Your Healthcare Worries ",
+      "text":"S-Pharmacist is here to help you take it easy! We are amongst one of India's top online  and medical care platforms."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "We've got India Covered!",
+      "text": "We now deliver in 100+ cities and towns across 2200+ pin codes. We thereby cover every nook and corner of the country! "
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Making Lives Simpler With Online Medical Store",
+"text":"Our doorstep delivery service is available in PAN-India across top cities like Bangalore, Delhi, Mumbai, Kolkata, Hyderabad, Gurgaon, Noida, Pune, etc"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Why Are We The Most Preferred Online Pharmacy?",
+      "text": "Lucrative offers on our platform allow you to make payment online and via various payment wallets at a discounted price."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Sit Back & Relax While You Get Your Essentials Delivered!",
+      "text": "You will get a reminder every month and your order will be delivered at your convenience!"
+},
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Access medical and health information",
+      "text": "PharmEasy delivers reliable and accurate medical information that has been carefully written, vetted and validated by our health experts."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpeg",
+      "text": "Excellent experience. S-Pharmacist has not let it's customers down during lockdown. Thanks team. Great job. The application is also very smooth. And does its job well with an attractive Ul and easy to use features, Good job developer. ",
+      "name": "Sumit Gaikwad"
+    },
+    {
+      "img": "img/testimonials/02.jpeg",
+      "text":"I've had a good experience. The consultation with adoctor feature works well too. The prices anddiscounts are great too. Overall the simplicity ofthe app is A plus too.Irecommend this app. Will always beacustomer/user now! Genuinely!",
+      "name": "Akash Satyadev"
+    },
+    {
+      "img": "img/testimonials/03.jpeg",
+      "text":"Very helpful and friendly app in terms of usability,customer support & money saving from the point of medical necessity of every person.",
+      "name": "Sanidhya Gupta"
+    },
+    {
+      "img": "img/testimonials/04.jpeg",
+      "text":"Best service and app amongst all available. I have been using it for more than3years, and even during the pandemic, they have kept their standards high and are delivering the order within 24 hours. Keep up the good work.",
+      "name": "Sujal Londhe"
+    },
+    {
+      "img": "img/testimonials/05.jpeg",
+      "text":"Very good app. Would recommend it to everyone requiring fast and efficient delivery of medicinal products at the doorstep.",
+      "name": "Sridhar Savat"
+    },
+    {
+      "img": "img/testimonials/06.jpeg",
+      "text":"This app isagame changer for me.lam unable to go out always to buy medicinal products. Pharmeasy gives me the last liberty to shop essential healthcare products from home. The app is very user friendly and me being an elderly person do not find any difficulty in using it. They deliver well in time. Thanks",
+      "name": "Yash"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Pimpri-Chinchwad, Pune-411039 ",
+    "phone": "+91 123 456 1234",
+    "email": "Sanket@SPhramacist.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}

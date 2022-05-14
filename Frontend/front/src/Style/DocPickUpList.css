@@ -1,0 +1,38 @@
+.dp
+{margin-bottom: 50px;
+    
+}
+
+.str{
+    padding: 0px 0px;
+    font-size:30px
+
+}
+
+.sbr{
+    margin-left: 30px;
+}
+
+.payt{
+    height: 30px;
+    width: 30px;
+}
+
+.pa{
+    margin-left: 10px;
+}
+
+#bg13 {
+    background-image: url('Login/BuyDrug.jpg');
+    position: fixed;
+    left: 0;
+    top: 0;
+    
+    width: 500px;
+  
+    height: 250px;;
+    background-size: cover;
+    margin-top: 400px;
+    filter: blur(2px);
+    
+  }

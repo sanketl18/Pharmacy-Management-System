@@ -1,0 +1,26 @@
+.tabl{
+    margin-left: 300px;
+}
+
+#bg7 {
+    background-image: url('Login/pick.jpg');
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    
+    height: 800px;;
+    background-size: cover;
+    margin-top: 150px;
+    margin-bottom: 400px;
+    filter: blur(1px);
+    
+  }
+
+  .apic{
+      margin-left:0px;
+  }
+
+  .api{
+      margin-bottom: 30px;
+  }

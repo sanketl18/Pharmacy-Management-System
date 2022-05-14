@@ -1,0 +1,220 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width:100X;
+  height: 50px;
+  background-color: Oblack;
+  text-align: center;
+  color: rgb(120, 110, 110);
+ margin-bottom: 0%;
+  margin-left: 40% ;
+  }
+  
+  @media screen and (max-width: 400px) {
+    #features {
+      padding: 20px;
+      width: 111%;
+    }
+    #about,
+    #services,
+    #testimonials,
+    #team,
+    #contact,
+    #footer {
+      width: 111%;
+    }
+  
+    #portfolio {
+      width: 110%;
+    }
+  }
+  #menu-outer {
+    height: 84px;
+    
+  }
+  
+  .table {
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+  }
+  
+  ul#horizontal-list {
+    min-width: 696px;
+    list-style: none;
+   text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: #555;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 8px 2px;
+    border-radius: 0;
+    margin: 9px 20px 0 20px;
+    }
+    ul#horizontal-list li {
+      display: inline;
+    }
+    .animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 150px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+
+.navsp{
+  margin-left: 100px;
+}
+
+.Logo {
+  background-image: url(Style/Login/home.jpg);
+}
+
+.inputc{
+  text-align: center;
+  margin-bottom: 30px;
+}
+ input{
+  border-radius: 6px;
+   border:2px solid #719ECE ;
+ } 
+input:focus {
+	outline: none;
+  	border: 2px solid #719ECE;
+    box-shadow: 0 0 10px #719ECE
+}
+
+
+.deco{
+  text-decoration: none;
+  margin-left: 35px;
+  font: 18px "Open Sans", "sans-serif";
+  color: #282c34;
+}
+
+.line {
+  width: 100%;
+  height: 4rem;
+  overflow: hidden;
+ 
+  padding: 0;
+  margin-bottom: 16px;
+}
+
+/* flipping class and key frames*/
+
+/* lineup class and keyframes */
+.lineUp {
+  animation: 2s anim-lineUp ease-out infinite;
+}
+@keyframes anim-lineUp {
+  0% {
+    opacity: 0;
+    transform: translateY(80%);
+  }
+  20% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
+
+.why{
+ 
+  
+  font: 15px "Open Sans", "sans-serif";
+  color: #282c34;
+}
+
+.stri{
+  margin-left: 20px;
+}
+
+.tback{
+  background-color: #1abc9c;
+    }
+
+    .frontAd:hover{
+      background-color: #108cf2;
+      
+    }
+
+  
+    .navhh:hover{
+      
+      background-color: #108cf2;
+    }
+
+    .navhl:hover{
+      
+      background-color: #f21010;
+    }
+

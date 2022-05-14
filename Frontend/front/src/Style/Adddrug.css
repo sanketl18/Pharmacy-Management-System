@@ -1,0 +1,65 @@
+
+#adddrug{
+    margin-left: 500px;
+   
+    margin-top: 20px;
+   
+  }
+
+  .he{
+     margin-left: 120px;
+     margin-bottom: 30px;
+     font-family: 'Raleway', sans-serif;
+  }
+  
+
+.bs{
+    margin-left: 145px;
+}
+.lins{
+    text-decoration: none;
+    font-size: large;
+    text-align: right;
+    margin-top: 50px;
+    
+}
+
+.cl{
+    margin: 0 auto;
+}
+
+.supp{
+    margin-bottom: 15px;
+}
+
+.lins{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+#bg5 {
+    background-image: url('Login/add.jpg');
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+  
+    height: 100%;;
+    background-size: cover;
+    margin-top: 122px;
+    filter: blur(0px);
+    
+  }
+
+  .ads{
+      margin-bottom: 30px;
+      margin-top: 20px;
+  }
+
+  .adl{
+      margin-top: 20px;
+  }
+
+  .btad{
+      margin-top: 30px;
+  }

@@ -1,0 +1,34 @@
+.crorder{
+    margin-left: 450px;
+}
+
+.ch{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.cba{
+    text-decoration: none;
+    font-size: large;
+    text-align: right;
+    margin-top: 60px;
+    
+}
+
+#bg12 {
+background-image: url('Login/stock-vector-corde.jpg');
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 500px;
+  margin-top: 200px;
+    height: 500px;;
+    background-size: cover;
+   
+    filter: blur(1px);
+    
+  }
+
+  .sin{
+      margin-bottom: 15px;
+  }

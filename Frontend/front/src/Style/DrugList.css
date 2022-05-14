@@ -1,0 +1,127 @@
+#spafromnav{
+    margin-top: 70px;
+  }
+
+.add{
+    color: #111;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 35px 8px 20px;
+    border-radius: 24px;
+    border: 1px solid ;
+    position: relative;
+    z-index: 1;
+    transition: all .3s ease-in-out;
+    margin-right: 100px;
+    margin-top: 20px;
+    text-decoration: none;
+
+}
+.add:focus,
+.add:hover{
+    color: #111;
+    box-shadow: 0 0 10px #0D6EFD;
+}   
+.add:before{
+    content: "";
+    background:#0D6EFD;
+    width: 42px;
+    height: 42px;
+    border-radius: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    transition: all 0.3s ease;
+}
+.add:focus:before,
+.add:hover:before{
+    background:#0D6EFD;
+    width: 100%;
+}
+.add:after{
+    content: "";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    font-weight: 900;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transition: all .3s cubic-bezier(0.86, 0, 0.07, 1);
+}
+.add:focus:after,
+.add:hover:after{ right: 8px; }
+@media only screen and (max-width: 767px){
+    .btn{ margin-bottom: 20px; }
+}
+
+.Drugli[type=text] {
+    border-radius: 50px;
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 16px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .Drugli[type=text]:focus {
+    width: 100%;
+  }
+
+  .t{
+      margin-top: 30px;
+  }
+
+  .sup{
+     text-align: center;
+     
+  }
+
+  .update{
+    background-color: DodgerBlue;
+    border: 2px solid black;
+    color: white;
+    padding: 3px 6px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left:5x;
+  }
+  
+  /* Darker background on mouse-over */
+  .update:hover {
+    background-color: RoyalBlue;
+  }
+
+  .delete{
+    background-color:#D11A2A ;
+    border: 2px solid black;
+    color: white;
+    padding: 5.5px 8px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .delete:hover {
+    background-color: rgb(255, 30, 30);
+  }
+  .bt{
+   
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
+
+  
+
